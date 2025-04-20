@@ -1,0 +1,6 @@
+@gymnasticHovedOpgave_HostAddress = http://localhost:5133
+
+GET {{gymnasticHovedOpgave_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
